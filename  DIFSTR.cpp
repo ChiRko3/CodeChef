@@ -1,5 +1,6 @@
+https://www.codechef.com/problems/DIFSTR
 Idea-
-Just Flip ith bit of the current string in the answer.
+Just Flip ith bit of the current string in the answer,god approach by tester <3
 #include <iostream>
 #include<bits/stdc++.h>
 #define ll long long int

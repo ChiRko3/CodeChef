@@ -1,8 +1,6 @@
-Main Idea here is that every pair will have equal difference when all of them are equal..
-
-
-
-
+// https://www.codechef.com/problems/EQDIFFER
+// Main Idea here is that every pair will have equal difference when all of them are equal,using observation.
+// Good Problem -- 2/5
 #include <iostream>
 #include<bits/stdc++.h>
 #define ll long long int

@@ -1,6 +1,7 @@
-Idea-
-try making pairs greedily.
-
+// https://www.codechef.com/problems/TEAMFOR
+// Idea-
+// try making pairs greedily,first programmer and english speaking students,then try to make both and rest.
+// Good Problem -- 3/5
 #include <iostream>
 #include<bits/stdc++.h>
 #define ll long long int
